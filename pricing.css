@@ -1,0 +1,71 @@
+/************ FONTS ***************/
+@font-face {
+  font-family: 'hurmegeometricsans-regular';
+  src: url('https://d2saw6je89goi1.cloudfront.net/uploads/digital_asset/file/640050/hurmegeometricsans-regular.ttf');
+  font-weight: normal;
+}
+/* Regular Fonts */
+#tmp_subheadline-77173-143, #tmp_list-21084-163-103, #row--76148-137, #headline-61016-131-107, #headline-34287-183-173, #headline-85444, #headline-91235-137, #headline-99143-105, headline-33467-179, #headline-49973-178-109, #headline-85444-179, #headline-30646-120, #headline-46830-108, #headline-17275-103, #headline-82852-158, #headline-64800-114, #headline-35282-143, #headline-81646-115, #headline-77574-126, #headline-96162-104, #headline-70204-165-145-119, #headline-23911-130-166-182, #headline-42201-158-129-169, #headline-70204-165-130, #headline-23911-130-175, #headline-42201-158-137, #headline-70204-149, #headline-23911-185, #headline-42201-169, #headline-11038-125-160, #headline-10434-159, #headline-34343-120, #headline-61016-173, #headline-34287-100, #tmp_list-21084-141, #headline-38414-127, #headline-64119-135, #list-13047-109, #headline-65681-123-189-116, #headline-65681-123-111, #headline-65681-163, #headline-34148-103, #headline-49593-121-143, #headline-49593-101-137, #headline-49593-154, #headline-49973-146, #headline-46182-164, #headline-49593-101-175-113-122, #headline-49593-101-175-110-103, #headline-49593-101-175-112, #headline-10621-163, #headline-81261-104, #headline-50390-101, #headline-57933-151-103, #headline-80609-160, headline-10621-163, #headline-34287-183-109, #tmp_list-21084-163-173, #headline-61016-131-125, #tmp_button-94023, #headline-64428, #headline-69327, #headline-17054, #headline-27178, #headline-13773, #headline-16634, #headline-84445, #tmp_paragraph-46053, #tmp_nav-15668-143, #headline-77432, #headline-78333, #headline-87447, #headline-17977, #headline-33259, #headline-29761, #headline-68499, #headline-50967, #headline-16457, #tmp_list-21084-163, #headline-34287-183, #headline-61016-131, #headline-88456, #headline-13746, #headline-57933-151, #headline-10621, #headline-45973, #headline-81261, #headline-63988, #headline-80609, #headline-35856,  #headline-50390, #headline-86281, #headline-46182, #headline-35282, #headline-77574, #headline-81646, #headline-17275, #headline-46830, #headline-82852, #headline-64800, #headline-49593-101-175-113-139, #headline-49593-101-175-110-116, #headline-49593-101-175-106, #headline-49593-121-142, #headline-49593-101-175-113, #headline-49593-101-175, #headline-49593-121, #headline-49593-101-175-110, #headline-99772-135, #headline-49593-101, #headline-49593, #headline-49973, #headline-99772, #headline-65681, #headline-65681-123, #headline-65681-123-189, #headline-34148, #headline-48578-187, #headline-48578, #headline-99143, #list-13047, #headline-64119, #headline-57933, #headline-38414, #headline-34287, #tmp_list-21084, #headline-61016, #headline-34343, #headline-11038, #headline-10434, #headline-48578-187, #headline-42201-158, #headline-23911-130, #headline-70204-165, #headline-42201-158-129, #headline-23911-130-166, #headline-70204-165-145, #headline-23911, #headline-42201, #headline-70204, #headline-99143, #tmp_nav-15668, #headline-96162, #headline-79117, #headline-33467, #headline-30646, #tmp_subheadline-77173, #headline-48578 {
+  font-family: 'hurmegeometricsans-regular', sans-serif !important;
+}
+/************ COLUMNS ***************/
+#row--40461, #row--44057, #row--10409, #row--76148, #row--76148-150, #row--50348-153-146, #row--76148-137, #row--50348, #row--50348-153 {
+  width:100%!important;
+  justify-content: center!important;
+}
+#section--69143, #section--69143-128, #section--69143-128-169 {
+  width:95%;
+}
+#section--69143 div div.row, #section--69143-128 div div.row, #section--69143-128-169 div div.row {
+  display:flex;
+  flex-wrap:nowrap;
+}
+@media (max-width:770px) {
+  #section--69143 div  .col_left, #section--69143-128 div .col_left, #section--69143-128-169 div .col_left {
+    width:60%;
+  }
+  #section--69143 div .col_right, #section--69143-128 div .col_right, #section--69143-128-169 div .col_right {
+    width:40%;
+    vertical-align:middle!important;
+  }
+}
+
+#col-center-left-132, #col-center-right-145, #col-right-130, #col-center-left-108, #col-center-right-124, #col-right-162 {
+  width:20%;
+}
+#col-left-100, #col-left-177 {
+  width:40%;
+}
+#col-center-right-124 {
+  -webkit-box-shadow: 2px 9px 38px -8px rgba(0,0,0,0.47);
+-moz-box-shadow: 2px 9px 38px -8px rgba(0,0,0,0.47);
+box-shadow: 2px 9px 38px -8px rgba(0,0,0,0.47);
+  border-radius:7px;
+}
+/************ PRICES ***************/
+.permonth {
+  font-size:14px;
+  top:-3px!important;
+}
+#customjs-11391, #customjs-43285 {
+  font-family:Poppins, Helvetica, sans-serif !important;
+  font-size:35px;
+  font-weight:bold;
+  text-align:center;
+}
+#customjs-45618, #customjs-38498 {
+  font-family:Poppins, Helvetica, sans-serif !important;
+  font-size:25px;
+  font-weight:bold;
+  text-align:center;
+  color:#ffffff;
+}
+#customjs-43285, #customjs-38498 {
+  color:#A1B6D4;
+}
+/************ SHADOWS ***************/
+#button-31187 a, #button-77173 a, #button-90756 a {
+-webkit-box-shadow: 2px 9px 38px -8px rgba(0,0,0,0.35);
+-moz-box-shadow: 2px 9px 38px -8px rgba(0,0,0,0.35);
+box-shadow: 2px 9px 38px -8px rgba(0,0,0,0.35);
+}
